@@ -2,7 +2,7 @@
 layout: post
 title: First post!
 image: /img/hello_world.jpeg
-category: [etc, algorithms, ]
+category: [algorithms, DP, ]
 ---
 
 This is my first post, how exciting!

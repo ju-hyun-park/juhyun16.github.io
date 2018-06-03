@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: introducing myself.
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Juhyun Park.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Birth : 91.05.16 (28 years old)
+- country : South Korea, Seoul
+- Software Engineer
 
-What else do you need?
+I'm interested in ... 
 
-### my history
+1. cloud computing(open stack)
+2. python, c++
+3. web development(django)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Blogging since 2018.06.03

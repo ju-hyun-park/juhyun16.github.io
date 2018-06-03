@@ -24,11 +24,13 @@ description: It is my study archives(CS, English, Diary, etc)
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Study:
-    - { etc: "category/etc/" }
-    - { algorithms: "category/algorithms/" }
-    - { diary: 'category/diary/'}
+  Algorithms:
+    - { all: "category/algorithms/" }
+    - { DP: "category/DP/" }
+    - { string: 'category/string/'}
+  Problems: 'category/PS/'
   English: 'category/english/'
+  Diary: 'category/diary/'
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -95,7 +97,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  google: false
+  google: true
   linkedin: true
 
 # How to display the link to the website in the footer

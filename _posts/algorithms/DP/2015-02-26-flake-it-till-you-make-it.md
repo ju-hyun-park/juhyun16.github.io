@@ -3,7 +3,7 @@ layout: post
 title: Flake it till you make it
 subtitle: Excerpt from Soulshaping by Jeff Brown
 bigimg: /img/path.jpg
-category: [etc, algorithms, ]
+category: [algorithms, DP, ]
 tags: [books, test]
 ---
 

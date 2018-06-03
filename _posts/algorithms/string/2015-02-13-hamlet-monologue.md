@@ -2,7 +2,7 @@
 layout: post
 title: To be
 subtitle: ... or not to be?
-category: [etc, diary, ]
+category: [algorithms, string, ]
 tags: [books, shakespeare, test]
 ---
 

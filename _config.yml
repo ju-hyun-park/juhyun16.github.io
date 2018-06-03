@@ -142,7 +142,7 @@ title-separator: "-"
 timezone: "Asia/Seoul"
 markdown: kramdown
 highlighter: rouge
-permalink: /:year-:month-:day-:title/
+permalink: pretty
 paginate: 10
 
 kramdown:

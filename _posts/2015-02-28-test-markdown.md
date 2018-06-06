@@ -72,3 +72,6 @@ You can add notification, warning and error boxes like this:
 
 {: .box-error}
 **Error:** This is an error box.
+
+인라인 코드  
+`일종의 강조`

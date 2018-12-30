@@ -23,7 +23,8 @@ description: It is my study archives(CS, English, Diary, etc)
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  Dev:
+    - { javascript: "category/javascript/" }
   Algorithms:
     - { all: "category/algorithms/" }
     - { DP: "category/DP/" }
